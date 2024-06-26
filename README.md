@@ -1,16 +1,13 @@
-### Howdy!!! 👋
+<h1 align="center"><b>About Me</b></h1>
 
-<!--
-**den-is/den-is** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><b>Senior DevOps engineer and automation expert</b></p>
 
-Here are some ideas to get you started:
+I'm a senior DevOps engineer with almost 20 years of experience in the field. I started my journey a long time ago as a networks and systems administrator in the early 2000s.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My primary focus is architecting and supporting Kubernetes environments in an efficient and durable manner, either on-premises, in zero-trust environments, or on clouds.
+
+My favorite cloud provider is AWS, but of course, years of experience have required me to work within different environments and cloud providers.
+
+I'm an adherent of full automation principles and the usage of GitOps, IaC, or any other configuration automation techniques.
+
+I love coding in Go and Python.
