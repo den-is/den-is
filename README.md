@@ -1,6 +1,6 @@
 #### About me
 
-- 🤖 Expert DevOps engineer
+- 🤖 Lead Platform engineer
 - ⚙️ Automation of everything the GitOps way
 - 📝 Go and Python developer
 - 📚 I love reading Sci-Fi
